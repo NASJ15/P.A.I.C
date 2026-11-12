@@ -1,3 +1,7 @@
+## Introduction
+
+This is my configuration for my personal local Agentic AI feel free to use it as you see fit.
+
 ## Runtime
 
 | Item | Value |
